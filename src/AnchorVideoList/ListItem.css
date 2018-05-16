@@ -1,0 +1,43 @@
+:root {
+  --border-radius: 2%;
+}
+
+.AnchorVideoList_ListItem {
+  position: relative;
+  border-radius: var(--border-radius);
+  background-color: #fff;
+  box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);
+  margin: 15px;
+}
+
+.AnchorVideoList_ListItem_CoverArt {
+  position: relative;
+}
+
+.AnchorVideoList_ListItem_CoverArt_Image {
+  border-top-left-radius: var(--border-radius);
+  border-top-right-radius: var(--border-radius);
+}
+
+.AnchorVideoList_ListItem_CoverArt_Overlay{
+  border-top-left-radius: var(--border-radius);
+  border-top-right-radius: var(--border-radius);
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.AnchorVideoList_ListItem_ActionButton {
+  width: 50%;
+}
+
+.AnchorVideoList_ListItem_ActionButton_Image {
+  height: 100%;
+  width: 100%;
+}

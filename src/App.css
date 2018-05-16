@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient(to bottom right,#02b3e4,#02ccba);
+  font-family: 'Open Sans', sans-serif;
+}
+
+.App_MediaPlayerSection {
+  background-color: white;
+  border-bottom-left-radius: 50% 20%;
+  border-bottom-right-radius: 50% 20%;
+  padding: 25px;
+}
+
+.App_MediaTitle {
+  font-weight: 600;
+  font-size: 1.2em;
+  padding: 20px;
+}

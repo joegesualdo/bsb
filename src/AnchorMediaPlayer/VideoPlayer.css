@@ -1,0 +1,11 @@
+.VideoPlayer_root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.VideoPlayer_Container {
+  padding: 20px;
+  background-image: linear-gradient(to bottom right,#02b3e4,#02ccba);
+  box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);
+  border-radius: .375rem;
+}
