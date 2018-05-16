@@ -1,5 +1,9 @@
 # BSB Player
 > A media player specially made for the Backstreet Boys 🎤
+[bsb-gif](https://media2.giphy.com/media/mOjsQA4btJbnW/giphy.gif)
+
+## Demo
+Take a look at the [demo](https://bsb-fbwqebiohc.now.sh/)
 
 ## Install packages
 ```
