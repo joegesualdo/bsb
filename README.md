@@ -16,7 +16,17 @@ $ yarn
 $ yarn start
 ```
 
-## Features 
+## Compatibility
+
+The current version was a built for the Firefox desktop browser. All other browsers are not officially supported but will be added in following versions.
+
+The next versions will focus on improving the experience for users using:
+- Chrome desktop
+- Chrome mobile
+- Safari desktop
+- Safari Mobile
+
+## Features
 
 ### Requirements
 
@@ -29,18 +39,18 @@ $ yarn start
 - Play any song, out of order.
 - Use the 'previous' button to go back a song.
 - Press spacebar to toggle between play and pause.
-- Press left and right arrow to skip forward and backwars, respectively
+- Press left and right arrow to skip forward and backwards, respectively
 - Display the seconds remaining in the song
 
 ## TODO
 
-- Add documentation for the components
-- Improve mobile experience
-- Give some love to the design (especially those buttons from 1994)
-- Add ability to jump around within a song video
 - Add tests
+- Improve mobile experience (e.g. audio permissions, inline video and audio playback)
+- Give some love to the design (especially those buttons from 1994)
+- Add documentation for the components
+- Add ability to jump around within songs and videos
 - Add static types (e.g. Flow or Typescript)
-- Add postcss
+- Add postcss with nextcss
 - Raise 100 Million
 - IPO
 

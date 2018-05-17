@@ -96,6 +96,7 @@ class VideoPlayer extends React.Component {
             height={this.props.height}
             poster={this.props.posterUrl}
             preload="auto"
+            playsinline
           >
             Sorry, your browser doesn't support embedded videos, but don't
             worry, you can{' '}
