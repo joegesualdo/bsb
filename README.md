@@ -35,6 +35,7 @@ $ yarn start
 ## TODO
 
 - Add documentation for the components
+- Improve mobile experience
 - Give some love to the design (especially those buttons from 1994)
 - Add ability to jump around within a song video
 - Add tests
